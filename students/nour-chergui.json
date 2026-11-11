@@ -1,1 +1,9 @@
-
+{
+  "name": "Chergui Nour El Houda",
+  "role": "Software Engineering Student (Master 1, UMBB)",
+  "links": [
+    { "title": "GitLab Profile", "url": "https://gitlab.com" },
+    { "title": "GitHub Profile", "url": "https://github.com" },
+    { "title": "LinkedIn", "url": "https://linkedin.com" }
+  ]
+}
