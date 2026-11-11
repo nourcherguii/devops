@@ -1,1 +1,8 @@
-
+{
+  "name": "Alex Smith",
+  "role": "Aspiring DevOps Engineer",
+  "links": [
+    { "title": "GitHub Profile", "url": "https://github.com" },
+    { "title": "LinkedIn Connect", "url": "https://linkedin.com" }
+  ]
+}
